@@ -10,7 +10,7 @@ export default createGlobalStyle`
     outline:0;
     box-sizing: border-box;
 }
-/* verde de alguma coisa #1d886b */
+/* verde de alguma coisa #1d886b, novo background #252036 */
 body {
     background: #100e17 url(${githubImg}) no-repeat 75% top;
     -webkit-font-smoothing: antialiased;
